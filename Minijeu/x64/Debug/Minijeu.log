@@ -1,0 +1,35 @@
+﻿  Asteroid.cpp
+C:\Users\Utilisateur\source\repos\Minijeu\Asteroid.cpp(6,21): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\Asteroid.cpp(7,21): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Bullet.cpp
+  Entity.cpp
+C:\Users\Utilisateur\source\repos\Minijeu\Entity.cpp(10,9): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\Entity.cpp(11,9): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\Entity.cpp(13,9): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Player.cpp
+C:\Users\Utilisateur\source\repos\Minijeu\Player.cpp(14,37): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\Player.cpp(15,37): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\Player.cpp(18,19): warning C4305: '*=' : troncation de 'double' à 'float'
+C:\Users\Utilisateur\source\repos\Minijeu\Player.cpp(19,19): warning C4305: '*=' : troncation de 'double' à 'float'
+  main.cpp
+C:\Users\Utilisateur\source\repos\Minijeu\Explosion.h(9,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\Utilisateur\source\repos\Minijeu\Explosion.h(9,24): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(36,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(44,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(62,43): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(63,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(64,45): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(73,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(129,49): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(129,43): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(160,81): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(160,69): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(160,63): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Utilisateur\source\repos\Minijeu\main.cpp(187,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+main.obj : error LNK2019: symbole externe non résolu "public: void __cdecl Entity::update(void)" (?update@Entity@@QEAAXXZ) référencé dans la fonction main
+C:\Users\Utilisateur\source\repos\Minijeu\x64\Debug\Minijeu.exe : fatal error LNK1120: 1 externes non résolus
